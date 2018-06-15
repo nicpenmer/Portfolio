@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/nicpenmer/Portfolio#readme",
   "dependencies": {
-    "materialize": "^1.0.0"
+    "materialize": "^1.0.0",
+    "materialize-css": "^1.0.0-rc.1"
   }
 }

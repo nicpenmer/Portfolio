@@ -8,7 +8,8 @@
 
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: rgb(8, 8, 8);
+  font-size: 3.5rem;
 }
 
 p {
@@ -16,7 +17,7 @@ p {
 }
 
 .sidenav-trigger {
-  color: #26a69a;
+  color: black ;
 }
 
 .parallax-container {
@@ -43,6 +44,11 @@ p {
   #index-banner .section {
     top: 0;
   }
+}
+blockquote{
+  margin: 20px 0;
+  padding-left: 1.5rem;
+  border-left: 5px solid#424242; /* Just change the color value and that's it*/
 }
 
 .icon-block {
