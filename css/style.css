@@ -54,7 +54,7 @@ p {
 blockquote{
   margin: 20px 0;
   padding-left: 1.5rem;
-  border-left: 5px solid#424242; /* Just change the color value and that's it*/
+  border-left: 5px solid#424242; 
 }
 
 .icon-block {
@@ -70,4 +70,5 @@ blockquote{
 
 footer.page-footer {
   margin: 0;
+
 }
